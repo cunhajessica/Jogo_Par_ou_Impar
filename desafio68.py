@@ -26,6 +26,7 @@ while True:
         break
 print(f'GAME OVER! Você venceu {v} vezes.')
 
+#Thanks Curso em Video, Python 3
 
 
 
